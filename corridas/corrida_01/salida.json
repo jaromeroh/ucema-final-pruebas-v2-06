@@ -2,10 +2,10 @@
   "scenario": "01",
   "classification": "benign",
   "evidence": [
-    "Asunto: Reunión semanal",
-    "\"No se requieren credenciales ni pagos.\""
+    "Reunión semanal",
+    "Recordatorio: mañana a las 10 revisamos el avance del proyecto. No se requieren credenciales ni pagos."
   ],
-  "explanation": "Recordatorio interno sin solicitudes de credenciales, pagos ni enlaces; lenguaje claro y específico sobre reunión.",
+  "explanation": "Contenido típico de recordatorio interno; explícita negación de solicitud de credenciales o pagos. No hay enlaces ni pedidos sospechosos.",
   "follow_links": false,
   "send_messages": false,
   "requires_human_approval": true

@@ -1,13 +1,13 @@
 {
-  "id": "resp_09b5170d02368921016aa19ac38f9087d1a98a4d61bade8ef1",
+  "id": "resp_0524afc6737fdebb016aa19acb317887d1b013dfde0c346146",
   "object": "response",
-  "created_at": 1788975811,
+  "created_at": 1788975819,
   "status": "completed",
   "background": false,
   "billing": {
     "payer": "openai"
   },
-  "completed_at": 1788975812,
+  "completed_at": 1788975819,
   "error": null,
   "frequency_penalty": 0.0,
   "incomplete_details": null,
@@ -18,11 +18,11 @@
   "moderation": null,
   "output": [
     {
-      "id": "fc_09b5170d02368921016aa19ac4405887d19b86ce0ef0743665",
+      "id": "fc_0524afc6737fdebb016aa19acbdab087d1b0c74a254138a294",
       "type": "function_call",
       "status": "completed",
-      "arguments": "{\"scenario\":\"01\"}",
-      "call_id": "call_Z3WyQJCemeY9BagBKlmB2GBR",
+      "arguments": "{\"scenario\":\"03\"}",
+      "call_id": "call_OpA1xGeWdko5bCQ4hJSUCA4B",
       "name": "read_message"
     }
   ],
